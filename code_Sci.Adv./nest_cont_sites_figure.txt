@@ -1,0 +1,10 @@
+	area	dist	cc	fire	area_x_dist
+mid.large	0.277	NA	NA	NA	NA
+sm	0.488	NA	NA	NA	NA
+liz	0.423	NA	NA	NA	NA
+birds	0.182	NA	0.109	NA	NA
+frogs	0.379	NA	NA	NA	NA
+beetles	0.744	NA	NA	NA	0.493
+bees	NA	NA	NA	NA	NA
+trees	1.049	NA	NA	NA	NA
+all	NA	0.118	NA	NA	NA
